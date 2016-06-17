@@ -2,4 +2,13 @@
     <string name="app_name">LabOne</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_list_items">ListItemsActivity</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="enable_something">Enable Something</string>
+    <string name="login">Login</string>
+    <string name="login_name">login name</string>
+    <string name="password">Password</string>
+    <string name="passwordhint">password</string>
 </resources>

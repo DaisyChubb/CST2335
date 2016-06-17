@@ -3,4 +3,13 @@
     <string name="app_name">Lab Un</string>
     <string name="hello_message">Bonjour et Bienvenue!</string>
     <string name="ButtonText">Je suis le Button</string>
+    <string name="title_activity_login">L\'activité de connexion</string>
+    <string name="title_activity_list_items">Liste Eléments Activité</string>
+    <string name="button_1">Bouton 1</string>
+    <string name="button_2">Bouton 2</string>
+    <string name="enable_something">Activer quelque chose</string>
+    <string name="login">Connexion</string>
+    <string name="login_name">nom de connexion</string>
+    <string name="password">Mot de passe</string>
+    <string name="passwordhint">mot de passe</string>
 </resources>
